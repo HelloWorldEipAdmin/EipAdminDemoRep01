@@ -7,7 +7,7 @@
     </p>
 
     <div class="form-horizontal">
-        <h4>Create a new account</h4>
+        <h4 style="font-size: xx-large; color: #0000FF"><strong>Create a new account 2016/10/16 05:40pm</strong></h4>
         <hr />
         <asp:ValidationSummary runat="server" CssClass="text-danger" />
         <div class="form-group">
